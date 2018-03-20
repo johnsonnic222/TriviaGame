@@ -1,0 +1,11 @@
+body {
+    background-image: url('http://i68.tinypic.com/24l8ynt.jpg');
+}
+
+.timer {
+text-decoration: solid black 3px;
+}
+
+.form {
+    font: solid bold black 6px;
+}
